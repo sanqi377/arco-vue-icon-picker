@@ -1,12 +1,12 @@
 {
   "name": "@sanqi377/arco-vue-icon-picker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "一键选择 Arco 库中的 icon 图标",
   "keywords": [
     "vue",
     "arco-design"
   ],
-  "author": "",
+  "author": "sanqi377",
   "license": "MIT",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",

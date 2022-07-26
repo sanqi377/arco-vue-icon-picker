@@ -1,0 +1,26 @@
+{
+  "name": "@sanqi377/arco-vue-icon-picker",
+  "title": "Icon 图标选择器",
+  "description": "一键选择 Arco 库中的 icon 图标",
+  "type": "vue-component",
+  "category": [
+    "数据展示",
+    "信息展示",
+    "弹出框"
+  ],
+  "group": 0,
+  "homepage": "",
+  "repository": "https://github.com/sanqi377/arco-vue-icon-picker.git",
+  "author": "sanqi377",
+  "screenshot": "",
+  "package": {
+    "name": "@sanqi377/arco-vue-icon-picker",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": [
+      "vue",
+      "@arco-design/web-vue"
+    ]
+  }
+}
